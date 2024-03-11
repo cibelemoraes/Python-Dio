@@ -17,7 +17,15 @@ conta_especial = True
 exp = saldo >= saque and saque <= limite or conta_especial and saldo >= saque
 print(exp)"""
 
-saldo = 1000
+
+"""saldo = 1000
 limite = 1000
 print(saldo is limite)
-print(saldo is not limite)
+print(saldo is not limite)"""
+
+"""frutas = ["limao", "uva"]
+print("laranja" not in frutas)
+print("limao" in frutas)"""
+
+x = (22-10)*3
+print(x)
